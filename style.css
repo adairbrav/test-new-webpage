@@ -1,10 +1,3 @@
-
-body {
-  background-image:url('gfe.gif);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
- 
 html {
   height: 100%;
   width: 100%;
@@ -41,3 +34,10 @@ h1 {
   text-align: center;
   border:7px solid grey;
 }
+
+body {
+  background-image:url('gfe.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ 
